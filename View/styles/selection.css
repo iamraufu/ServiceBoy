@@ -1,0 +1,108 @@
+#nav-button {
+  background-color: #6152a2;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+.nav-link {
+  color: #6152a2;
+  font-size: large;
+}
+
+#card-bg {
+  background-color: #dbd7ee;
+}
+
+h1 {
+  color: #6152a2;
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom: 50px;
+  padding-top: 25px;
+}
+#user {
+  font-size: medium;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.user {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+}
+#banner {
+  height: 700px;
+  width: 800px;
+  margin-right: 30px;
+}
+#username {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#address {
+  color: whitesmoke;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+}
+#info-section {
+  border-bottom: solid;
+  border-width: thin;
+
+  border-color: #6152a2;
+  padding-bottom: 10px;
+}
+p {
+  color: slategray;
+}
+span {
+  color: #6152a2;
+  font-size: medium;
+  font-weight: bold;
+}
+h1 {
+  color: #6152a2;
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom: 50px;
+  padding-top: 25px;
+}
+h6 {
+  color: #6152a2;
+}
+.card-header {
+  color: #6152a2;
+  font-weight: 700;
+  font-size: x-large;
+}
+#btn {
+  background-color: #6152a2;
+  color: #dbd7ee;
+  font-weight: medium;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+#tr_head {
+  background-color: #6152a2;
+}
+#confirm-btn {
+  background-color: #6152a2;
+  color: #dbd7ee;
+  font-weight: medium;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}

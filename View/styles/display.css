@@ -1,0 +1,13 @@
+#tr_head {
+  background-color: #6152a2;
+}
+#tr_body {
+  background-color: #bab1e2ab;
+}
+body {
+  font-family: "Quicksand", sans-serif;
+}
+h1 {
+  text-decoration: underline;
+  color: #6152a2;
+}

@@ -1,0 +1,76 @@
+#nav-button {
+  background-color: #6152a2;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+}
+@font-face {
+  font-family: sharifa;
+  src: url("../fonts/Sharifa_03-09-2005.ttf");
+}
+body {
+  font-family: "Quicksand", sans-serif;
+  background-image: url("../banners/bg-about.png");
+  overflow: hidden;
+}
+h1 {
+  color: #6152a2;
+  text-align: center;
+  text-decoration: underline;
+}
+.nav-link {
+  color: #6152a2;
+  font-size: large;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  left: 10%;
+  right: 10%;
+  color: white;
+}
+span {
+  color: #504581;
+}
+#info {
+  position: absolute;
+  bottom: 0;
+}
+#infos {
+  margin-left: 300px;
+  padding-left: 50px;
+  color: white;
+}
+#about {
+  color: white;
+}
+#o-apa {
+  font-family: "sharifa";
+  color: white;
+  font-size: x-large;
+  font-weight: lighter;
+}
+#icon {
+  color: white;
+}
+li {
+  list-style: none;
+}
+#location {
+  color: white;
+  padding-left: 5px;
+}
+#contact {
+  color: white;
+  padding-left: 5px;
+}
+#mail {
+  color: white;
+  padding-left: 5px;
+}
+.email-link {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+}

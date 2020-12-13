@@ -1,0 +1,37 @@
+#nav-button {
+  background-color: #6152a2;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+}
+
+body {
+  font-family: "Quicksand";
+  overflow: hidden;
+}
+
+.nav-link {
+  color: #6152a2;
+  font-size: large;
+}
+
+.msg {
+  border: solid #6152a2;
+  position: relative;
+  text-align: center;
+  padding: 200px;
+  margin: 100px;
+}
+h1 {
+  color: #6152a2;
+  font-size: xx-large;
+}
+h2 {
+  color: #6152a2;
+  font-size: large;
+}
+.link {
+  color: #6152a2;
+  font-size: large;
+  text-decoration: underline;
+}
