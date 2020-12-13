@@ -115,7 +115,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 </head>
 <body>
 <div class="logo">
-                  <a href ="http://localhost/serviceboy/View/index.html"><img src="logo2.png" alt="service boy logo" > </a>
+                  <a href ="http://localhost/serviceboy/View/index.html"><img src="http://localhost/serviceboy/View/logo2.png" alt="service boy logo" > </a>
     </div>
     <div class="wrapper">
         <h2>Sign Up</h2>

@@ -22,7 +22,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <body>
     <div class="page-header">
         <h1>Hi, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b>. Welcome to Service Boy <br><a href="http://localhost/serviceboy/View/services.html"<div class="content-image">
-                    <img src="logo2.png" alt=""></a>
+                    <img src="http://localhost/serviceboy/View/logo2.png" alt=""></a>
                 </div></h1>
     </div>
     <p>
